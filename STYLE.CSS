@@ -1,0 +1,31 @@
+body {
+	max-width: 70%;
+	margin: auto;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-size: 32px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: 1.5em;
+}
+.text {
+  font-size: 20px;
+}
+caption {
+  font-size: 18px;
+}
+table {
+  width: 70%;
+  margin: 10px auto;
+}
+table, td, th {
+  border: 1px solid black;
+  text-align:center;
+
+}
+figure {
+  font-style: italic;
+  font-size: 12px;
+  clear: right;
+  float: right;
+  text-align: center;
+}
